@@ -1,13 +1,13 @@
 # Audient iD14 MKII Volume Control
 
 It is well known that the Audient `iD14 MKII` and `iD4 MKII` audio interfaces do not retain the volume setting after being powered off.
-As a result, a simple workaround was implemented in the form of a utility with a single function: to remotely control the master and headphone volumes.
+As a result, a simple utility was created with a single purpose: to remotely control the master and headphone volumes
 
-<img width="546" height="544" alt="idvolume" src="https://github.com/user-attachments/assets/de6ee637-6c64-4097-82fd-302a77d84c09" />
+<img width="505" height="586" alt="iDvolume" src="https://github.com/user-attachments/assets/1b5fd1ea-da17-46b1-bf6c-24c73f29fddf" />
 `
 
 
-I created this exclusively for my own use, with the goal of simplifying volume control and extending the life of the rotary encoder.
+Originally created for my own use to simplify volume control and prolong the life of the rotary encoder
 
 If you're experiencing issues with the rotary encoder, you can replace it yourself with an `EC11E 30/15 20mm` pushbutton encoder.
 

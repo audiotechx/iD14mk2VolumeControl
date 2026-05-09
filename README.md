@@ -3,7 +3,8 @@
 It is well known that the Audient `iD14 MKII` and `iD4 MKII` audio interfaces do not retain the volume setting after being powered off.
 As a result, a simple utility was created with a single purpose: to remotely control the master and headphone volumes
 
-<img width="505" height="586" alt="iDvolume" src="https://github.com/user-attachments/assets/1b5fd1ea-da17-46b1-bf6c-24c73f29fddf" />
+<img width="526" height="608" alt="idvolume" src="https://github.com/user-attachments/assets/818ae45a-f83f-49e2-b151-d8eebf9b5dac" />
+
 `
 
 

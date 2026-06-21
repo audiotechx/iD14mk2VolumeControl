@@ -6,7 +6,7 @@ For safe startup behavior in studio environments, the Audient `iD4 MKII` and `iD
 <img width="546" height="875" alt="idvolume" src="https://github.com/user-attachments/assets/5bf517bf-b572-4a59-9d16-23cedfd8d843" />
 
 
-`
+​
 
 
 Originally created for my own use to simplify volume control and prolong the life of the rotary encoder.

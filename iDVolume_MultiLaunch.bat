@@ -18,6 +18,6 @@ REM 2. Quickly And Simultaneously:
 @echo off
 
 start "" "%~dp0iDVolume.ahk" mon 50
-start "" "%~dp0iDVolume.ahk" mon mute
+start "" "%~dp0iDVolume.ahk" hp 65
 
 exit

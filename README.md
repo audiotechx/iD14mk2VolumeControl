@@ -1,4 +1,4 @@
-# Audient iD14 MKII Volume Control
+# iDVolume: Audient iD14 MKII Volume Control
 
 For safe startup behavior in studio environments, the Audient `iD4 MKII` and `iD14 MKII` audio interfaces do not retain their volume settings after power-off. As a result, a simple utility was created with direct control via parameters, whose primary purpose is to control the master and headphone volumes, for example setting the volume level immediately after Windows startup.
 

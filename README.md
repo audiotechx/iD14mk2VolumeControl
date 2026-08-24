@@ -5,10 +5,12 @@ For safe startup behavior in studio environments, the Audient `iD4 MKII` and `iD
 
 <img width="531" height="968" alt="idvolume" src="https://github.com/user-attachments/assets/650e83e0-02bf-4916-9f56-5bb78a9cd7b5" />
 
-
-
+​
 Originally created for my own use to simplify volume control and prolong the life of the rotary encoder.
 
 If you're experiencing issues with the rotary encoder, you can replace it yourself with an `EC11E 30/15 20mm` pushbutton encoder.
 
+<details>
+<summary>Encoder image</summary>
 <img width="400" height="400" alt="7087655410" src="https://github.com/user-attachments/assets/2be0b0d0-ef00-40a4-9916-a735103ce12d" />
+</details>
